@@ -20,7 +20,7 @@ The GraphQL type system distinguishes between nullable and non-nullable types. T
    <Project Sdk="Microsoft.NET.Sdk.Web">
 
      <PropertyGroup>
-       <TargetFramework>net5.0</TargetFramework>
+       <TargetFramework>net8.0</TargetFramework>
        <RootNamespace>ConferencePlanner.GraphQL</RootNamespace>
        <Nullable>enable</Nullable>
      </PropertyGroup>
